@@ -13,8 +13,17 @@ Collect and validate school information for provided locations.
 - final_dataset.xlsx
 - missing_data_report.xlsx
 
+
 ## Execution
 
 pip install -r requirements.txt
 
 python src/main.py
+
+## Run
+
+python main.py
+
+## Output
+
+final_school_assignment.xlsx
